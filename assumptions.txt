@@ -1,0 +1,17 @@
+Hi,
+I have creted this simple application
+
+Url - https://train-reservation-ec583.web.app/
+This is hosted on firebase
+
+Assumptions
+1. Here on opening webpage it will randomly select 50 reserved seats coloured in red
+2. you can enter no from 1-7 and it will reserved seat for the user coloured in purple.
+3. Here i didn,t create any database or api yet as i didn,t get the problem fully where i can use db and api.
+
+The most imortant thing is you have to refresh the page everytime you want to enter an input so that it will randomly
+select 50 numbers again.
+
+It is just for showing the logic for reservation.
+
+If you can give me more detail. I will then create database and api endpoints accordingly.
