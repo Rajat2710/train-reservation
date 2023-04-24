@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/train-reservation",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

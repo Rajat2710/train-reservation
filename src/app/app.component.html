@@ -17,5 +17,10 @@
     <input type="number" id="lname" name="lname" min="1" max="7" [(ngModel)]="userseats"><br><br>
     <input type="submit" value="Submit" id="submit" (click)="onsubmit()">
     </form>
+    <div style="margin: 12vh 12vh 12vh 10vw;">
+      <div  class="graph-pallets"><div style="background-color: red; height:5vh;width: 4vw;"></div><div class="graph-text">Reserved Seats</div></div>
+      <div  class="graph-pallets"><div style="background-color: #f1f1f1; height:5vh;width: 4vw;"></div><div class="graph-text">Blank Seats</div></div>
+      <div class="graph-pallets"><div style="background-color: purple; height:5vh;width: 4vw;"></div><div class="graph-text">User Booked Seats</div></div>
+    </div>
   </div>
 </div>
